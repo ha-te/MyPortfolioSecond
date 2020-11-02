@@ -1,5 +1,4 @@
 # MyPortfolioSecond
-# MyPortfoliSecond
 ## アプリ概要
 ### ライフスタイル総合サポートアプリケーションです
 -　ターゲット
